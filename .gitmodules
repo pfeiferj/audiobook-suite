@@ -1,0 +1,6 @@
+[submodule "audiobook-server"]
+	path = audiobook-server
+	url = ../audiobook-server
+[submodule "audiobook-client"]
+	path = audiobook-client
+	url = ../audiobook-client
